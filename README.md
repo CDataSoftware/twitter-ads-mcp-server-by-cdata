@@ -1,4 +1,11 @@
 # twitter-ads-mcp-server-by-cdata
+<!-- deprecation-banner -->
+> [!WARNING]
+> **This repository is deprecated and archived.** It is no longer maintained and will not receive updates or fixes.
+>
+> - **Agentic coding** (Claude Code, Cursor, GitHub Copilot, and similar tools): use the [CData CLI](https://www.cdata.com/solutions/cli/) to give coding agents live access to Twitter Ads data.
+> - **Enterprise AI and MCP**: use [CData Connect AI](https://www.cdata.com/ai/), CData's managed MCP platform, to connect AI assistants and agents to Twitter Ads and other enterprise data.
+
 CData's Model Context Protocol (MCP) Server for Twitter Ads
 
 :heavy_exclamation_mark: This project builds a local, read-only MCP server. For fully remote MCP access, check out the first managed MCP platform: [CData Connect AI](https://www.cdata.com/ai/). For locally hosted, full read, write, update, delete, and action capabilities and a simplified setup, check out our [CData MCP Server for Twitter Ads](https://www.cdata.com/drivers/twitterads/download/mcp/).
